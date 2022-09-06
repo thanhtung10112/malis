@@ -1,0 +1,1 @@
+{"ast":null,"code":"import HttpService from '@/helper/HttpService';\nvar parameterTypeApi = new HttpService('parameter_types');\nexport default parameterTypeApi;","map":null,"metadata":{},"sourceType":"module"}

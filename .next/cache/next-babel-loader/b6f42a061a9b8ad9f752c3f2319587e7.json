@@ -1,0 +1,1 @@
+{"ast":null,"code":"import _ from 'lodash';\nexport var isAssembly = function isAssembly(part) {\n  return Boolean(_.get(part, 'is_assembly'));\n};\nexport var isAssemblyByDpn = function isAssemblyByDpn(dpn) {\n  return _.indexOf(dpn, 'G') !== -1;\n};\nexport default isAssembly;","map":null,"metadata":{},"sourceType":"module"}

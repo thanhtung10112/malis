@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { createContext } from 'react';\nvar ConfirmContext = /*#__PURE__*/createContext(null);\nexport default ConfirmContext;","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { makeStyles } from '@material-ui/core';\nimport { blue } from '@material-ui/core/colors';\nconst useStyles = makeStyles(theme => ({\n  infoOptionTab: {\n    marginLeft: theme.spacing(1),\n    cursor: 'pointer',\n    color: blue[400]\n  }\n}));\nexport default useStyles;","map":null,"metadata":{},"sourceType":"module"}

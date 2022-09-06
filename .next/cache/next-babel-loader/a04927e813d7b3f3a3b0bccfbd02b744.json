@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var defaultValue = {\n  value: null,\n  entity_id: '',\n  description: ''\n};\nexport var tranform = function tranform(data) {\n  return data;\n};","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const defaultValue = {\n  value: null,\n  entity_id: '',\n  description: ''\n};\nexport const tranform = data => data;","map":null,"metadata":{},"sourceType":"module"}

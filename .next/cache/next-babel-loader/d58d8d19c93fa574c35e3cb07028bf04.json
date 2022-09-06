@@ -1,0 +1,1 @@
+{"ast":null,"code":"import HttpService from '@/helper/HttpService';\nconst currencyApi = new HttpService('currencies');\nexport default currencyApi;","map":null,"metadata":{},"sourceType":"module"}

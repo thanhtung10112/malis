@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { useContext } from 'react';\nimport Context from '.';\n\nconst useDialogContext = () => {\n  const providerValue = useContext(Context);\n  return providerValue;\n};\n\nexport default useDialogContext;","map":null,"metadata":{},"sourceType":"module"}

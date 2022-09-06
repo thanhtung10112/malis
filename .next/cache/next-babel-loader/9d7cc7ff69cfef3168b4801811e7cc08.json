@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { useContext } from 'react';\nimport ConfirmContext from './ConfirmContext';\n\nvar useConfirm = function useConfirm() {\n  var confirm = useContext(ConfirmContext);\n  return confirm;\n};\n\nexport default useConfirm;","map":null,"metadata":{},"sourceType":"module"}

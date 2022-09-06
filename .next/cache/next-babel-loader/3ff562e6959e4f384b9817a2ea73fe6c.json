@@ -1,0 +1,1 @@
+{"ast":null,"code":"import _ from 'lodash';\nexport const isAssembly = part => Boolean(_.get(part, 'is_assembly'));\nexport const isAssemblyByDpn = dpn => _.indexOf(dpn, 'G') !== -1;\nexport default isAssembly;","map":null,"metadata":{},"sourceType":"module"}
